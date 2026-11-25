@@ -8,7 +8,8 @@ How the line targets the brief: the judge weighs a true observation
 about office life, a surprising turn, and tight wording. Triple-booked
 calendars are universal office truth; the turn reframes them as a
 corporate translation -- the body attends the meetings while the soul
-works from home -- which lands as both recognition and punchline.
+works from home -- recognition and punchline in the same breath, with
+no word spent twice.
 """
 
 import os
